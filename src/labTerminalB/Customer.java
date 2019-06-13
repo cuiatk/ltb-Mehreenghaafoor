@@ -27,8 +27,11 @@ public class Customer {
 		 */
 		
 		/**
-		 * TODO 3		10 Marks
-		 * Provide suitable specification for statement method 
+		 * Generate the total bill of rentals
+		 * Calculate the rental points 
+		 * print the total amount
+		 * @param nothing
+		 * @return   nothing
 		 */
 		public String statement() {
 		double totalAmount = 0;
